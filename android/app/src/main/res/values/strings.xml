@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ZQ_AI_LOGIC</string>
+    <string name="title_activity_main">ZQ_AI_LOGIC</string>
+    <string name="package_name">com.zq.ailogic</string>
+    <string name="custom_url_scheme">com.zq.ailogic</string>
+</resources>
